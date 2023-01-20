@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 function Offers() {
-  return <h1>offers</h1>;
+  return <h1>Offers</h1>;
 }
 
 export default Offers;
