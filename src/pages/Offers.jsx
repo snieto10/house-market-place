@@ -1,9 +1,7 @@
+import { Link } from "react-router-dom";
+
 function Offers() {
-  return (
-    <div>
-      <h1>Offers</h1>
-    </div>
-  );
+  return <h1>offers</h1>;
 }
 
 export default Offers;
